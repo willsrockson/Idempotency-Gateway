@@ -1,0 +1,20 @@
+# Compiled binaries, the files Go creates when you build
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Test files created during benchmarking or profiling
+*.test
+*.out
+
+# JetBrains editor folder
+.idea/
+
+# VS Code settings folder
+.vscode/
+
+# Environment files
+.env
